@@ -6,6 +6,8 @@ Wykład gościnny online dla ELSA Lublin, 25 listopada 2026 r. Interaktywna prez
 
 **Prezentacja:** https://ingardenpl.github.io/prawa-czlowieka-demokracja-cyfrowa/
 
+**Wydarzenie ELSA Lublin:** https://fb.me/e/c2gsUlGtJ
+
 Autor: dr Karol Kasprowicz, Wydział Prawa i Administracji UMCS.
 
 ## Jak oglądać
